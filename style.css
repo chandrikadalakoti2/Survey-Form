@@ -1,0 +1,23 @@
+body{font-family: cursive;background:url('https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3VydmV5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+background-repeat:no-repeat;background-size:cover;}
+#title{text-align:center;color:white;}
+#description{text-align:center;padding:2%;color:white;}
+#survey-form
+{
+  padding:5%;
+  width:50%;
+  margin:0 auto;
+  background-color:#100830;
+  color:white;
+  opacity:0.9;
+}
+
+label{
+  margin:30px 0;
+}
+
+input[type=text],input[type=email],input[type=number],select,option,textarea{
+  width:100%;
+  padding:1%;
+}
+
