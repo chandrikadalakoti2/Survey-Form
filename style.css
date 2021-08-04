@@ -4,6 +4,7 @@ background-repeat:no-repeat;background-size:cover;}
 #description{text-align:center;padding:2%;color:white;}
 #survey-form
 {
+  opacity:1;
   padding:5%;
   width:50%;
   margin:0 auto;
